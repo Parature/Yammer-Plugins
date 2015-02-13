@@ -16,7 +16,7 @@ The plugin will require that the End-User is authenticated into the Yammer netwo
 
 Add the following JS script to your portal via the Portal Files:
 
-<script src="https://assets.yammer.com/assets/platform_embed.js"></script>
+https://assets.yammer.com/assets/platform_embed.js
 
 Add jQuery to your portal, there are a number of CDNs (Content Delivery Networks) that host jQuery.
 
